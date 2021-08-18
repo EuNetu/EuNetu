@@ -1,4 +1,4 @@
-## Olá!! Pode me chamar de Neto <img align="right" alt="test" scr="https://discord.com/channels/821811445192720414/822210314003021894/877420859097223208">
+## Olá!! Pode me chamar de Neto <img src="https://media.giphy.com/media/ZEKmyazbeRUu848WeA/giphy.gif" align="right" width="80" height="70" />
 
  <div>
   <a href="https://github.com/EuNetu">
