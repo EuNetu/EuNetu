@@ -13,3 +13,7 @@
   <a href = "mailto:euneto2501@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/euclides-neto-b467ab19b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+</br>
+<div>
+<img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" width="330" height="200" />
+</div>
