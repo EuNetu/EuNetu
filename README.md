@@ -2,7 +2,6 @@
 
 <img src="https://media.giphy.com/media/ZEKmyazbeRUu848WeA/giphy.gif" align="right" width="80" height="70" />
 
-
 <div>
   <a href="https://github.com/eunetu">
   <img  aling="left" height="150em"  src="https://github-readme-stats.vercel.app/api?username=eunetu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
@@ -11,13 +10,13 @@
 
 ##
 
-
 <h4>
 <p>♠️ Graduando em Análise e Desenvolvimento de Sistemas</p>
 <p>♠️ Técnico em TI no IMD</p>
 <p>♠️ Dev. Mobile em formação</p>
  
 ##
+
 <h3 align="left">Skills:</h3>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dardo" width="40" height="40"/> 
@@ -35,11 +34,11 @@
 <div style="display: inline_block">
  <h3 align="left">Contato:</h3>
   <a href = "mailto:euneto2501@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/euclides-neto-b467ab19b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/euclides-neto-b467ab19b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
  
 ##
 
 <div>
-<img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" aling="center" width="330" height="200" />
+  <img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" aling="center" width="330" height="200" />
 </div>
