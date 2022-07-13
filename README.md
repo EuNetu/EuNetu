@@ -14,7 +14,7 @@
 
 <h4>
 <p>♠️ Graduando em Análise e Desenvolvimento de Sistemas</p>
-<p>♠️ Graduando em Análise e Desenvolvimento de Sistemas</p>
+<p>♠️ Técnico em TI no IMD</p>
 <p>♠️ Dev. Mobile em formação</p>
  
 ##
