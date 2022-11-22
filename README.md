@@ -1,45 +1,19 @@
-<h1 align="center" display="inline-block">Olá, pode me chamar de Neto</h1>
+# 🦆 Hey, you can call me Neto <img src="https://media.giphy.com/media/ZEKmyazbeRUu848WeA/giphy.gif" align="right" width="80" height="70" />
+## 💫 About Me:
+♠️ Graduando em Análise e Desenvolvimento de Sistemas<br><br>♠️ Técnico em Informática para Internet no IMD<br><br>♠️ Dev. Mobile em formação
 
-<img src="https://media.giphy.com/media/ZEKmyazbeRUu848WeA/giphy.gif" align="right" width="80" height="70" />
 
-<div>
-  <a href="https://github.com/eunetu">
-  <img  aling="left" height="150em"  src="https://github-readme-stats.vercel.app/api?username=eunetu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img aling="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunetu&layout=compact&langs_count=7&theme=radical"/>
-</div>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/𝓝𝓮𝓽𝓸#2527) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_eu.neto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/euclides-neto-b467ab19b/) 
 
-##
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EuNetu&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=EuNetu&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EuNetu&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<h4>
-<p>♠️ Graduando em Análise e Desenvolvimento de Sistemas</p>
-<p>♠️ Técnico em Informática para Internet no IMD</p>
-<p>♠️ Dev. Mobile em formação</p>
- 
-##
+---
+[![](https://visitcount.itsvg.in/api?id=EuNetu&icon=8&color=12)](https://visitcount.itsvg.in)
 
-<h3 align="left">Skills:</h3>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dardo" width="40" height="40"/> 
-</a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-</a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-</a> 
-</p>
-
-##
-
-<div style="display: inline_block">
- <h3 align="left">Contato:</h3>
-  <a href="https://www.linkedin.com/in/euclides-neto-b467ab19b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-  <a href="https://www.instagram.com/_eu.neto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:euneto2501@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
- 
-##
-
-<div>
-  <img src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif" aling="center" width="330" height="200" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
