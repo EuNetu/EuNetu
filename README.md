@@ -1,4 +1,6 @@
 # 🦆 Hey, you can call me Neto <img src="https://media.giphy.com/media/ZEKmyazbeRUu848WeA/giphy.gif" align="right" width="80" height="70" />
+<br>
+
 ## 💫 About Me:
 ♠️ Majoring in Systems Analysis and Development<br><br>♠️  Technical in Computer Science for the Internet at IMD<br><br>♠️ Dev. Mobile in training
 
