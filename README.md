@@ -1,6 +1,6 @@
 <div align="center" style="display: inline_block"><br>
   
-  <font size=1> Hey, you can call me Neto</font>
+  <h1> Hey, you can call me Neto</h1>
 <br>
 </div>
 
