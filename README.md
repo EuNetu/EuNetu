@@ -3,11 +3,15 @@
   <h1> Hey, you can call me Neto</h1>
 <br>
 </div>
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EuNetu&show_icons=true&count_private=false&hide_border=true&title_color=5CCDEB&icon_color=5CCDEB&text_color=ffffff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuNetu&layout=compact&hide_border=true&title_color=5CCDEB&text_color=ffffff&bg_color=0d1117&count_private=false" />
+  
+</div>
 <br>
 <h2> 🦆 About Me: </h2>
 <div  align="center">
-  ♠️ Majoring in Systems Analysis and Development<br><br>♠️  Technical in Computer Science for the Internet at IMD<br><br>♠️ Dev. Mobile in training
+  <p>♠️ Majoring in Systems Analysis and Development<br><br>♠️  Technical in Computer Science for the Internet at IMD<br><br>♠️ Dev. Mobile in training</p>
 </div>
 
 ## 🌐 Socials:
@@ -36,14 +40,3 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 <br>
-
-## 📊 GitHub Stats:
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Hildebrando-Viana-Matos&show_icons=true&count_private=true&hide_border=true&title_color=5CCDEB&icon_color=5CCDEB&text_color=ffffff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hildebrando-Viana-Matos&layout=compact&hide_border=true&title_color=5CCDEB&text_color=ffffff&bg_color=0d1117" />
-  
-</div>
-
-
-
-
