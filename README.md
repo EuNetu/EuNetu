@@ -12,7 +12,7 @@
 <br>
 <h2> 🦆 About Me: </h2>
 <div  align="center">
-  <p>♠️ Majoring in Systems Analysis and Development<br><br>♠️  Technical in Computer Science for the Internet at IMD<br><br>♠️ Dev. Mobile in training</p>
+  <p>♠️ Graduated in Systems Analysis and Development<br><br>♠️  Technical in Computer Science for the Internet at IMD<br><br>♠️ Dev. Full Stack in training</p>
 </div>
 
 ## 🌐 Socials:
