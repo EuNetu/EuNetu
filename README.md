@@ -1,43 +1,96 @@
-<div align="center" style="display: inline_block"><br>
+<h1 align="center">Neto | Backend Developer 🚀</h1>
+
+<p align="center">
+     Graduated in Systems Analysis and Development<br>-<br>
+        Technical in Computer Science for the Internet at IMD<br>-<br>
+       Pursuing a Postgraduate Degree in Full-Stack Development. <br>-<br>
+      Dev. Backend in training
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+```ts
+const aboutMe = {
+  name: "Euclides Neto",
+  role: "Backend Developer",
+  location: "Brazil",
+  openToWork: true,
+  skills:{
+    programmingLanguages: ["TypeScript", "JavaScript"],
+    backendFocus: ["Node.js", "Docker", "Express", "Fastify"],
+    frontend: ["React", "AngularJS"],
+    databaseExperience: ["PostgreSQL", "MySQL", "MongoDB"],
+
+  }
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" style="margin-right: 30px;" />
   
-  <h1> Hey, you can call me Neto 🤟</h1>
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" style="margin-right: 30px;" />
 
-<br>
-</div>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EuNetu&show_icons=true&count_private=false&hide_border=true&title_color=5CCDEB&icon_color=5CCDEB&text_color=ffffff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuNetu&layout=compact&hide_border=true&title_color=5CCDEB&text_color=ffffff&bg_color=0d1117&count_private=false" />
-  
-</div>
-<br>
-<h2> 🦆 About Me: </h2>
-<div  align="center">
-  <p>♠️ Graduated in Systems Analysis and Development<br><br>♠️  Technical in Computer Science for the Internet at IMD<br><br>♠️ Pursuing a Postgraduate Degree in Full-Stack Development. <br><br>♠️ Dev. Full Stack in training</p>
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" style="margin-right: 30px;" />
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="AngularJS" />
+
 </div>
 
-## 🌐 Socials:
 
-<div  align="center">
-    
-  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/𝓝𝓮𝓽𝓸#2527) 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_eu.neto) 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/euclides-neto-b467ab19b/) 
-      
-</div>
-<br>
 
-## 💻 Tech Stack:
-<div align="center"style="display: inline_block"><br>
-<!--   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<!--   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /> -->
-  <img align="center" height="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
-<!--   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" /> -->
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-<!--   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react.svg"> -->
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EuNetu&show_icons=true&hide_border=true&theme=github_dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuNetu&layout=compact&hide_border=true&theme=github_dark" height="180" />
 </div>
-<br>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/euclides-neto-b467ab19b/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_eu.neto">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/𝓝𝓮𝓽𝓸#2527">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+<!-- 
+---
+
+## 📄 Resume
+<p align="center">
+  <a href="./curriculo-euclides-neto.pdf" download>
+    <img src="https://img.shields.io/badge/Download Resume-%2300C896.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+-->
+---
+
+<p align="center">
+  💬 Keep learning!
+</p>
